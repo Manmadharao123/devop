@@ -5,6 +5,3 @@ fouth time changes
 pyhton
 apple
 orange
-
-
-
